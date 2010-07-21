@@ -1,0 +1,34 @@
+{
+    "maintainer": "Zefiro Networks LLC.",
+    "attributes": {
+    },
+    "suggestions": {
+    },
+    "platforms": {
+      "ubuntu": [
+
+      ],
+      "debian": [
+
+      ]
+    },
+    "dependencies": {
+    },
+    "maintainer_email": "rene@zefironetworks.com",
+    "conflicting": {
+    },
+    "name": "dnsutils",
+    "recipes": {
+    },
+    "providing": {
+    },
+    "license": "Apache 2.0",
+    "replacing": {
+    },
+    "groupings": {
+    },
+    "long_description": "= DESCRIPTION:\n\nInstalls dnsutils.\n\n= REQUIREMENTS:\n\n== Cookbooks:\n\n\n\n= USAGE:\n\nThis cookbook primarily installs various DNS  clients such as dig, dnslookup and nsupdate. \n\n= LICENSE and AUTHOR:\n      \nAuthor:: Rene Mendoza ()\n\nCopyright:: 2010, Zefiro Networks LLC\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.",
+    "recommendations": {
+    },
+    "description": "Installs dnsutils"
+  }

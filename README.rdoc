@@ -1,0 +1,9 @@
+= DESCRIPTION:
+dnsutils cookbook for Chef
+
+= REQUIREMENTS:
+
+= ATTRIBUTES: 
+
+= USAGE:
+
